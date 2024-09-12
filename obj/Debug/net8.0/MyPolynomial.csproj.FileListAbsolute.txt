@@ -1,0 +1,14 @@
+C:\Users\atulj\OneDrive\Desktop\MyPolynomials\MyPolynomial\MyPolynomial\bin\Debug\net8.0\MyPolynomial.exe
+C:\Users\atulj\OneDrive\Desktop\MyPolynomials\MyPolynomial\MyPolynomial\bin\Debug\net8.0\MyPolynomial.deps.json
+C:\Users\atulj\OneDrive\Desktop\MyPolynomials\MyPolynomial\MyPolynomial\bin\Debug\net8.0\MyPolynomial.runtimeconfig.json
+C:\Users\atulj\OneDrive\Desktop\MyPolynomials\MyPolynomial\MyPolynomial\bin\Debug\net8.0\MyPolynomial.dll
+C:\Users\atulj\OneDrive\Desktop\MyPolynomials\MyPolynomial\MyPolynomial\bin\Debug\net8.0\MyPolynomial.pdb
+C:\Users\atulj\OneDrive\Desktop\MyPolynomials\MyPolynomial\MyPolynomial\obj\Debug\net8.0\MyPolynomial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulj\OneDrive\Desktop\MyPolynomials\MyPolynomial\MyPolynomial\obj\Debug\net8.0\MyPolynomial.AssemblyInfoInputs.cache
+C:\Users\atulj\OneDrive\Desktop\MyPolynomials\MyPolynomial\MyPolynomial\obj\Debug\net8.0\MyPolynomial.AssemblyInfo.cs
+C:\Users\atulj\OneDrive\Desktop\MyPolynomials\MyPolynomial\MyPolynomial\obj\Debug\net8.0\MyPolynomial.csproj.CoreCompileInputs.cache
+C:\Users\atulj\OneDrive\Desktop\MyPolynomials\MyPolynomial\MyPolynomial\obj\Debug\net8.0\MyPolynomial.dll
+C:\Users\atulj\OneDrive\Desktop\MyPolynomials\MyPolynomial\MyPolynomial\obj\Debug\net8.0\refint\MyPolynomial.dll
+C:\Users\atulj\OneDrive\Desktop\MyPolynomials\MyPolynomial\MyPolynomial\obj\Debug\net8.0\MyPolynomial.pdb
+C:\Users\atulj\OneDrive\Desktop\MyPolynomials\MyPolynomial\MyPolynomial\obj\Debug\net8.0\MyPolynomial.genruntimeconfig.cache
+C:\Users\atulj\OneDrive\Desktop\MyPolynomials\MyPolynomial\MyPolynomial\obj\Debug\net8.0\ref\MyPolynomial.dll
